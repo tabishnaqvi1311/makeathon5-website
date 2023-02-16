@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+circleRight,
+circleLeft {
+    color: white;
+    /* border: 1px solid red; */
+    background-color: #51262c;
+    height: 150px;
+    width: 150px;
+    border-radius: 80px;
+    margin: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+aboutCircle {
+    color: white;
+    /* border: 1px solid red; */
+    height: 500px;
+    width: 500px;
+    border-radius: 250px;
+    background-color: #51262c;
+    margin: 0 9rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+circleLeft {
+    margin: 0 0 0 10rem;
+    background-color: #563353;
+}
+
+
